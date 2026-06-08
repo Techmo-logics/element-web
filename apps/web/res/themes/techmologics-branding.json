@@ -1,0 +1,33 @@
+{
+  "companyName": "TECHMOLOGICS",
+  "companyTagline": "INNOVATIONS PRIVATE LIMITED",
+  "appName": "Techmologics Collaborate",
+  "appDescription": "An IT Services Innovation Partner - Powering Business with Technology",
+  "slogan": "Collaborate | Innovate | Scale",
+  "colors": {
+    "primary": "#FF6B6B",
+    "primaryDark": "#E63946",
+    "accent": "#27AE60",
+    "accentLight": "#52C977",
+    "background": "#0F0F0F",
+    "backgroundLight": "#1A1A1A",
+    "text": "#FFFFFF",
+    "textSecondary": "#B0B0B0",
+    "border": "#333333"
+  },
+  "logos": {
+    "main": "/res/img/techmologics-logo.svg",
+    "favicon": "/res/img/techmologics-favicon.ico",
+    "loginPage": "/res/img/techmologics-logo-full.svg"
+  },
+  "styling": {
+    "theme": "dark",
+    "fontFamily": "'Inter', 'Helvetica Neue', sans-serif",
+    "borderRadius": "8px"
+  },
+  "metadata": {
+    "website": "https://techmologics.com",
+    "supportEmail": "support@techmologics.com",
+    "companyAddress": "Your Company Address Here"
+  }
+}
